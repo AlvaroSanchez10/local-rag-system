@@ -1,0 +1,5 @@
+FastAPI es un framework moderno para construir APIs en Python.
+
+Está basado en Starlette para la capa web y Pydantic para la validación de datos.
+
+Permite definir endpoints asíncronos utilizando async y await, lo que facilita manejar múltiples solicitudes concurrentes cuando las operaciones son principalmente de entrada y salida.

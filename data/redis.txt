@@ -1,0 +1,7 @@
+Redis es una base de datos en memoria utilizada frecuentemente como sistema de caché.
+
+Puede almacenar datos temporales y reducir la cantidad de consultas realizadas a una base de datos principal.
+
+También se utiliza para sesiones, colas y sistemas de mensajería.
+
+En arquitecturas de alta concurrencia, Redis puede disminuir la latencia de acceso a información frecuente.

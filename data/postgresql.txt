@@ -1,0 +1,7 @@
+PostgreSQL es un sistema de gestión de bases de datos relacional.
+
+Se utiliza para almacenar información persistente y estructurada.
+
+Soporta transacciones ACID, relaciones entre tablas, índices y consultas SQL complejas.
+
+En una arquitectura backend, PostgreSQL suele utilizarse como fuente principal de persistencia mientras otros sistemas como Redis funcionan como caché.
